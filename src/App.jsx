@@ -60,7 +60,7 @@ function App() {
             <h6>The Next Dev</h6>
             <h1>
               New <br />
-              Series 8 <br />
+              Series 7 <br />
               Apple <span>Watch.</span>
             </h1>
             <p>
